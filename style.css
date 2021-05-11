@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    color: #1c0a0a;
+    background: #f3f2ee;
+    font-family: 'PT Serif', serif;
+}
+
+#header {
+    position:fixed;
+    width: 100%;
+    background-color: #f3f2ee;
+    z-index:1;
+}
+
+#header a {
+    line-height: 0px;
+    display: inline-block;
+    margin: 0px 50px;
+    color: #1e1e1e;
+}
+
+#header a#home {
+    display:inline;
+    margin:0px;
+}
+
+#header img {
+    margin: 20px 20px;
+}
+
+#header h1 {
+    font-weight: lighter;
+    font-size: 4em;
+    margin:20px;
+    display: inline-block;
+    vertical-align: top;
+    width:400px;
+}
+
+#text {
+    position:relative;
+    top:280px;
+    margin:0px 50px;
+    width: 700px;
+    margin-bottom: 100px;
+}
