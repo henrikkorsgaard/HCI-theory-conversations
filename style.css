@@ -6,14 +6,17 @@ body {
 }
 
 #header {
+    margin:0px;
+    overflow:hidden;
     position:fixed;
+    top:0px;
     width: 100%;
     background-color: #f3f2ee;
-    z-index:1;
+    z-index:3;
 }
 
 #header a {
-    line-height: 0px;
+    
     display: inline-block;
     margin: 0px 50px;
     color: #1e1e1e;
