@@ -47,3 +47,7 @@ body {
     width: 700px;
     padding-bottom: 200px;
 }
+
+#password {
+    cursor: crosshair;
+}
